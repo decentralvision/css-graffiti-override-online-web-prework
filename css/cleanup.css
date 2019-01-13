@@ -16,7 +16,7 @@ body #wall .parent #tag-4 {
 }
 
 body div#wall div.parent div:#tag-5 .slick {
- display:none;
+ opacity:0;
 }
 
 #tag-6, #tag-7 {
