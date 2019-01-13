@@ -15,7 +15,7 @@ body #wall .parent #tag-4 {
  display:none;
 }
 
-body #wall:nth-child(5) #tag-5 {
+body#wall div.parent {
  display:none;
 }
 
